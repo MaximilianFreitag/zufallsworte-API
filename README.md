@@ -68,6 +68,20 @@ __________________________________________________
 <br>
 
 __________________________________________________
+<br />
+<br />
+#API #Duden #Wortgenerator #Python #Informatik #JSON 
+<br />
+<br />
+
+
+
+## License
+This project falls under the MIT license.
+
+
+
+__________________________________________________
 
 <br>
 <br>
