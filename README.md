@@ -8,7 +8,10 @@ API --> https://zufallsworte.herokuapp.com/
 
 
 <br>
-![alt text](https://github.com/[MaximilianFreitag]/zufallsworte-API/blob/main/image_cover.png?raw=true)
+
+![image_cover](https://user-images.githubusercontent.com/46624616/165381268-82eef7fe-7b8d-4515-a06d-aec7d3d62518.png)
+
+
 <br>
 
 __________________________________________________
