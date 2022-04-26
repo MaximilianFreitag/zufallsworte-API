@@ -8,7 +8,7 @@ API --> https://zufallsworte.herokuapp.com/
 
 
 <br>
-![Bildschirmfoto 2022-04-26 um 21 50 28](https://user-images.githubusercontent.com/46624616/image_cover.png)
+![alt text](https://github.com/[MaximilianFreitag]/zufallsworte-API/blob/main/image_cover.png?raw=true)
 <br>
 
 __________________________________________________
