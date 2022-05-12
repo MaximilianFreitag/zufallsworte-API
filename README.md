@@ -4,7 +4,7 @@
 __________________________________________________
 
 
-API --> https://zufallsworte.herokuapp.com/
+API Docs --> https://zufallsworte.herokuapp.com/
 
 
 <br>
@@ -13,6 +13,35 @@ API --> https://zufallsworte.herokuapp.com/
 
 
 <br>
+
+__________________________________________________
+
+
+<!-- How to use -->
+## How to use (For the full docs please visit the hyperlink above)
+   
+<br>
+Return 4 random german word
+
+    https://zufallsworte.herokuapp.com/zufallswoerter/4
+    
+    --> {"words":["Katze","Maus","fliegen","schön"]}
+
+<br> 
+
+Return 6 random german words starting with au 
+ 
+    https://zufallsworte.herokuapp.com/anfangsbuchstaben/au/6
+    
+    --> {"words":["Ausbildung","Aufstellung","aufstehen","Ausweis","aufrunden","Ausgang"]}
+
+<br> 
+
+Return 3 random german nouns that have the letters "ee" in them 
+
+    https://zufallsworte.herokuapp.com/substantiv_enthaelt/ee/3
+    
+    ['Meer', 'Idee', 'Ostsee']
 
 __________________________________________________
 
