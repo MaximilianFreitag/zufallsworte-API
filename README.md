@@ -41,7 +41,7 @@ Return 3 random german nouns that have the letters "ee" in them
 
     https://zufallsworte.herokuapp.com/substantiv_enthaelt/ee/3
     
-    ['Meer', 'Idee', 'Ostsee']
+    --> {"words": ['Meer', 'Idee', 'Ostsee'] }
 
 __________________________________________________
 
